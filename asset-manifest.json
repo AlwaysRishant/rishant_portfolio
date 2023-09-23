@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rishant_portfolio/static/css/main.c0088950.css",
+    "main.js": "/rishant_portfolio/static/js/main.1c4b0a7f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/rishant_portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/rishant_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cab.png": "/rishant_portfolio/static/media/cab.0e216b5b9f70b65350f7.png",
+    "static/media/movie.png": "/rishant_portfolio/static/media/movie.a53afd1a26ca1388cb3b.png",
+    "static/media/sanjeevni.png": "/rishant_portfolio/static/media/sanjeevni.f4042c1449c1fbca508e.png",
+    "static/media/training.png": "/rishant_portfolio/static/media/training.4368f7650a9b41b1a050.png",
+    "static/media/Resume_Rishant.pdf": "/rishant_portfolio/static/media/Resume_Rishant.653e93b8c153beb0a70a.pdf",
+    "static/media/home-main.svg": "/rishant_portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/rishant_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/atm.png": "/rishant_portfolio/static/media/atm.1c279de9fca2227195f2.png",
+    "static/media/secondhandsquare.png": "/rishant_portfolio/static/media/secondhandsquare.f6c0a974f3f4d80963c3.png",
+    "static/media/home-bg.jpg": "/rishant_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/rishant_portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/rishant_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/rishant_portfolio/index.html",
+    "main.c0088950.css.map": "/rishant_portfolio/static/css/main.c0088950.css.map",
+    "main.1c4b0a7f.js.map": "/rishant_portfolio/static/js/main.1c4b0a7f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/rishant_portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/rishant_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0088950.css",
+    "static/js/main.1c4b0a7f.js"
+  ]
+}
