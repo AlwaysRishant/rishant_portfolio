@@ -51,7 +51,7 @@ function Techstack() {
         <DiJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <img src={Sqlicon} width={50+"%"}></img>
+        <img src={Sqlicon} width={50+"%"} alt="not found"></img>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiApachetomcat/>
