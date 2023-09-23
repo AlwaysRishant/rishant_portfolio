@@ -6,26 +6,11 @@ import Sqlicon from "../About/sqlicon.png";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
-  DiCss3,
-  DiMongodb,
-  DiPython,
   DiGit,
   DiJava,
   DiGithub,
-  DiJsBadge,
   DiMysql,
-  DiMsqlServer,
 } from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
-
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
