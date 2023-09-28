@@ -53,5 +53,16 @@
   "devDependencies": {
     "@types/react-pdf": "^7.0.0",
     "gh-pages": "^6.0.0"
+  },
+  "description": "<h2 align=\"center\">   Portfolio Website - v2.0<br/>   <a href=\"https://soumyajit.vercel.app/\" target=\"_blank\">soumyajit.tech</a> </h2> <div align=\"center\">   <img alt=\"Demo\" src=\"./Images/readme-img1.png\" /> </div>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlwaysRishant/rishant_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlwaysRishant/rishant_portfolio/issues"
   }
 }
