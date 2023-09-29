@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rishant_portfolio/static/css/main.c0088950.css",
-    "main.js": "/rishant_portfolio/static/js/main.6bf07216.js",
+    "main.js": "/rishant_portfolio/static/js/main.8f03a5db.js",
     "static/js/415.ce61e130.chunk.js": "/rishant_portfolio/static/js/415.ce61e130.chunk.js",
     "static/js/787.cd67ada0.chunk.js": "/rishant_portfolio/static/js/787.cd67ada0.chunk.js",
     "static/media/cab.png": "/rishant_portfolio/static/media/cab.0e216b5b9f70b65350f7.png",
     "static/media/movie.png": "/rishant_portfolio/static/media/movie.a53afd1a26ca1388cb3b.png",
     "static/media/sanjeevni.png": "/rishant_portfolio/static/media/sanjeevni.f4042c1449c1fbca508e.png",
     "static/media/training.png": "/rishant_portfolio/static/media/training.4368f7650a9b41b1a050.png",
-    "static/media/Resume_Rishant.pdf": "/rishant_portfolio/static/media/Resume_Rishant.653e93b8c153beb0a70a.pdf",
+    "static/media/RESUME.pdf": "/rishant_portfolio/static/media/RESUME.f0fcab64cff1fd2aabf6.pdf",
     "static/media/home-main.svg": "/rishant_portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/rishant_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/atm.png": "/rishant_portfolio/static/media/atm.1c279de9fca2227195f2.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/rishant_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/rishant_portfolio/index.html",
     "main.c0088950.css.map": "/rishant_portfolio/static/css/main.c0088950.css.map",
-    "main.6bf07216.js.map": "/rishant_portfolio/static/js/main.6bf07216.js.map",
+    "main.8f03a5db.js.map": "/rishant_portfolio/static/js/main.8f03a5db.js.map",
     "415.ce61e130.chunk.js.map": "/rishant_portfolio/static/js/415.ce61e130.chunk.js.map",
     "787.cd67ada0.chunk.js.map": "/rishant_portfolio/static/js/787.cd67ada0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0088950.css",
-    "static/js/main.6bf07216.js"
+    "static/js/main.8f03a5db.js"
   ]
 }
